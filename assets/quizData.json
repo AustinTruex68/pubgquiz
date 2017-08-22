@@ -1,0 +1,84 @@
+{
+    "question0":{
+        "questionNum": "Question 1.",
+        "question":"What is the most beneficial melee weapon?",
+        "questionType":"multipleChoice",
+        "answer1":"Sickle",
+        "answer2":"Pan",
+        "answer3":"Machete",
+        "answer4":"Crow Bar",
+        "correctAnswer":"answer2"
+    },
+    "question1":{
+        "questionNum": "Question 2.",
+        "question":"What ammo does the UMP use?",
+        "questionType":"multipleChoice",
+        "answer1":"5.56mm",
+        "answer2":"7.62mm",
+        "answer3":"9mm",
+        "answer4":"What is a UMP?",
+        "correctAnswer":"answer3"
+    },
+    "question2":{
+        "questionNum": "Question 3.",
+        "question":"In PUBG, what is the best level of armor/gear you can obtain?",
+        "questionType":"multipleChoice",
+        "answer1":"Master Level",
+        "answer2":"Level 3",
+        "answer3":"Boomshaka Metal",
+        "answer4":"The Bullet Proof Kind",
+        "correctAnswer":"answer2"
+    },
+    "question3":{
+        "questionNum": "Question 4.",
+        "question":"PUBG is in my opinion better than DayZ or H1Z1.",
+        "questionType":"truefalse",
+        "answer1":"True",
+        "answer2":"False",
+        "correctAnswer":"answer1"
+    },
+    "question4":{
+        "questionNum": "Question 5.",
+        "question":"When in the pre-game lobby, it is tradition to punch the person in the pre-order attire.",
+        "questionType":"truefalse",
+        "answer1":"True",
+        "answer2":"False",
+        "correctAnswer":"answer1"
+    },
+    "question5":{
+        "questionNum": "Question 6.",
+        "question":"When you first land, it is better to punch people rather than finding a weapon.",
+        "questionType":"truefalse",
+        "answer1":"True",
+        "answer2":"False",
+        "correctAnswer":"answer2"
+    },
+    "question6":{
+        "questionNum": "Question 7.",
+        "question":"In PUBG you are constantly running away from the blue ________. (use lowercase)",
+        "questionType":"fillin",
+        "correctAnswer":"circle"
+    },
+    "question7":{
+        "questionNum": "Question 8.",
+        "question":"When you win in PUBG, you recieve the message - \"Winner Winner ________ Dinner.\" (use lowercase)",
+        "questionType":"fillin",
+        "correctAnswer":"chicken"
+    },
+    "question8":{
+        "questionNum": "Question 9.",
+        "question":"In PUBG, it is good practice to close the ________ after you enter. (use lowercase)",
+        "questionType":"fillin",
+        "correctAnswer":"door"
+    },
+    "question9":{
+        "questionNum": "Question 10.",
+        "question":"What is the quickest way to heal yourself?",
+        "questionType":"multipleChoice",
+        "answer1":"Bandage",
+        "answer2":"First Aid Kit",
+        "answer3":"Med Kit",
+        "answer4":"Energy Drink",
+        "correctAnswer":"answer1"
+    }
+}

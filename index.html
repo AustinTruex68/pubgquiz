@@ -1,0 +1,58 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body class="bg">
+    <div class="container">
+        <div class="text-center">
+            <h1>WELCOME TO PUBG QUIZ!</h1>
+        </div>
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <div class="panel panel-warning">
+                    <div class="panel-heading text-center">
+                        <h3 id="startingMessage">Click "GO" to get started!</h3>
+                    </div>
+                    <div class="panel-body">
+                        <!-- begin the quiz section -->
+                        <div class="row text-center">
+                            <div class="btn btn-success" id="startQuiz">GO</div>
+                        </div>
+                        <!-- questions section -->
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <form id="quizForm">
+                                    <div id="questionHolder"></div>
+                                    <div class="row text-center">
+                                        <input type="submit" class="btn btn-success" id="submitQuiz">
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                        <!-- results section -->
+                        <div class="row" id="resultsArea">
+                            <div class="col-xs-12">
+                                <div class="text-center">
+                                    <div id="results"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p class="orangeMe">Background image found on <a href="https://www.reddit.com/r/PUBATTLEGROUNDS/comments/6aqgq9/pubg_inspired_wallpaper_i_made/">reddit</a> all rights to image belong to <a href="https://www.reddit.com/user/SNOWtheYETI">u/SnowtheYeti</a></p>
+    </footer>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
